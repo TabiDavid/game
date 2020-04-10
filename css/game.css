@@ -24,6 +24,10 @@ main {
 
 }
 
+.thief {
+    background-color: red;
+}
+
 .hidden {
     display: none;
 }
